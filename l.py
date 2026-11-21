@@ -4,7 +4,7 @@
 # print(marks)
 
 d = {}
-d[]
+
 
 
 
